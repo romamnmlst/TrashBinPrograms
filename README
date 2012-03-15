@@ -1,7 +1,7 @@
 TrashBinPrograms
 ================
 
-A collection of programs that delete and undelate files. Files that are deleted are first compressed, and then moved into a hidden .TrashCan directory. 
+A collection of programs that delete and undelete files. Files that are deleted are first compressed, and then moved into a hidden .TrashCan directory. 
 
 Del: Compresses a file(s), moves the compressed file(s) to the .TrashCan directory, and deletes the original file(s).
 Undel: Uncompresses the deleted file(s) and restores the file(s) to its original location. 
